@@ -80,26 +80,6 @@
          "ImgFondo": "https://www.themoviedb.org/t/p/original/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg",
          "Trailer":"https://www.youtube.com/watch?v=-rF2j6K5FoM" ,
          "ImgPortada": "https://www.themoviedb.org/t/p/original/dk4Q4EudEKDZvBB40jBdPSvvBWF.jpg"
-      },
-      {
-         "Genero": "Adulto",
-         "Titulo": "The Exorcism of Carmen Farias  ",
-         "Año": "2021",
-         "Puntuacion": 63,
-         "Descripcion": "Carmen, a brave journalist, discovers soon after her mother's death that she has inherited her grandma's house. She decides to move there without knowing it hides dark secrets.",
-         "ImgFondo":"https://www.themoviedb.org/t/p/original/zm2kMjiz0u6qdn2XKbEbQkDiltN.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=5JnWw_SvCvI" ,
-         "ImgPortada":"https://www.themoviedb.org/t/p/original/uoTPjx07dxTrC1g3dYeaS2WNVGL.jpg"
-      },
-      {
-         "Genero": "Infantil",
-         "Titulo": "Miraculous World: Shanghai – The Legend of Ladydragon ",
-         "Año": "2021",
-         "Puntuacion": 79,
-         "Descripcion": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
-         "Trailer":" https://www.youtube.com/watch?v=lvRWF_UjTbo" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/xt2EwFW5cxcmbDnVmH8izSftUtE.jpg"
       }
  ]
 }
