@@ -40,26 +40,6 @@
          "ImgFondo": "https://www.themoviedb.org/t/p/original/mtRW6eAwOO27h3zrfU2foQFW7Hg.jpg",
          "Trailer":"https://www.youtube.com/watch?v=LRMTr2VZcr8" ,
          "ImgPortada": "https://www.themoviedb.org/t/p/original/whILAFe8EqPLBlF70fdscAr9qeZ.jpg"
-      },
-      {
-         "Genero": "Adulto",
-         "Titulo": "Old ",
-         "Año": "2021",
-         "Puntuacion": 63,
-         "Descripcion": "A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/2Qz065idhdi0TRbUme5eo2ejor8.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=A4U2pMRV9_k" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/cGLL4SY6jFjjUZkz2eFxgtCtGgK.jpg"
-      },
-      {
-         "Genero": "Infantil",
-         "Titulo": "Luca ",
-         "Año": "2021",
-         "Puntuacion": 81,
-         "Descripcion": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/aI5S2WMoTFVgBznYi2DP3WRojCl.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=mYfJxlgR2jw" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/jTswp6KyDYKtvC52GbHagrZbGvD.jpg"
       }
- ]
+   ]
 }
