@@ -60,26 +60,6 @@
          "ImgFondo": "https://www.themoviedb.org/t/p/original/aI5S2WMoTFVgBznYi2DP3WRojCl.jpg",
          "Trailer":"https://www.youtube.com/watch?v=mYfJxlgR2jw" ,
          "ImgPortada": "https://www.themoviedb.org/t/p/original/jTswp6KyDYKtvC52GbHagrZbGvD.jpg"
-      },
-      {
-         "Genero": "Adulto",
-         "Titulo": "Rurouni Kenshin: The Beginning ",
-         "Año": "2021",
-         "Puntuacion": 77,
-         "Descripcion": "Before he was a protector, Kenshin was a fearsome assassin known as Battosai. But when he meets the gentle Tomoe Yukishiro, a beautiful young woman who carries a huge burden in her heart which would change the life of Battosai forever.",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/heMC3jAjQPNSlr1n9mZKUQ58EOE.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=s0vN_2MRR50" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/leIeyFU6nCyBZXzBqTUcGn91VjF.jpg"
-      },
-      {
-         "Genero": "Infantil",
-         "Titulo": "The Boss Baby: Family Business  ",
-         "Año": "2020",
-         "Puntuacion": 78,
-         "Descripcion": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=-rF2j6K5FoM" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/dk4Q4EudEKDZvBB40jBdPSvvBWF.jpg"
       }
  ]
 }
