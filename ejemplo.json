@@ -20,26 +20,6 @@
          "ImgFondo": "https://www.themoviedb.org/t/p/original/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
          "Trailer":"https://www.youtube.com/watch?v=vBumm7mYT_0" ,
          "ImgPortada": "https://www.themoviedb.org/t/p/original/lSEr1nphZuCqXli3VziIgCI8Ivf.jpg"
-      },
-      {
-         "Genero": "Adulto",
-         "Titulo": "Viuda negra",
-         "Año": "2021",
-         "Puntuacion": 87,
-         "Descripcion": "Natasha Romanoff, también conocida como Black Widow, se enfrenta a las partes más oscuras de su libro mayor cuando surge una peligrosa conspiración vinculada a su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, Natasha debe lidiar con su historia como espía y las relaciones rotas que dejaron a su paso mucho antes de convertirse en Vengadora.",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=RxAtuMu_ph4" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/ppiL13JJx2LkyoNb8JM0h7nxYmk.jpg"
-      },
-      {
-         "Genero": "Infantil",
-         "Titulo": "PAW Patrol: The Movie ",
-         "Año": "2021",
-         "Puntuacion": 81,
-         "Descripcion": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos, to insure “law and order”.",
-         "ImgFondo": "https://www.themoviedb.org/t/p/original/mtRW6eAwOO27h3zrfU2foQFW7Hg.jpg",
-         "Trailer":"https://www.youtube.com/watch?v=LRMTr2VZcr8" ,
-         "ImgPortada": "https://www.themoviedb.org/t/p/original/whILAFe8EqPLBlF70fdscAr9qeZ.jpg"
       }
    ]
 }
